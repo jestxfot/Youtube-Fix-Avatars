@@ -3,8 +3,8 @@
 // @author       spiky_Spike
 // @run-at       document-start
 // @version      0.2
-// @downloadURL  https://vknext.net/static/yt3.user.js
-// @updateURL    https://vknext.net/static/yt3.user.js
+// @downloadURL  https://github.com/jestxfot/Youtube-Fix-Avatars/raw/main/yt3.user.js
+// @updateURL    https://github.com/jestxfot/Youtube-Fix-Avatars/raw/main/yt3.user.js
 // @match        *://*.youtube.com/*
 // ==/UserScript==
 
