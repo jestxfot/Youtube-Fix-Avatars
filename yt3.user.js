@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Youtube Fix Avatars
-// @author       spiky_Spike
+// @author       jestxfot
 // @run-at       document-start
-// @version      0.2
+// @version      1.0
 // @downloadURL  https://github.com/jestxfot/Youtube-Fix-Avatars/raw/main/yt3.user.js
 // @updateURL    https://github.com/jestxfot/Youtube-Fix-Avatars/raw/main/yt3.user.js
 // @match        *://*.youtube.com/*
